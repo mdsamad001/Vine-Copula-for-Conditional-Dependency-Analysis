@@ -1,4 +1,4 @@
-## Deep Clustering of Tabular Data by Weighted Gaussian Distribution Learning
+## Vine Copulas for Analyzing Multivariate Conditional Dependencies in Electronic Health Records Data
 This paper demonstrates a novel application to uncover conditional dependencies between variables in real-world electronic health records (EHR).
 More details on arXiv: [https://arxiv.org/abs/2301.00802](https://arxiv.org/abs/2604.07706)
 
